@@ -31,7 +31,20 @@
     "drupal/core-composer-scaffold": "~10",
     "drupal/core-project-message": "~10",
     "webflo/drupal-finder": "~1.0",
-    "vardot/varbase": "~10.0.0"
+    "vardot/varbase": "~10.0.0",
+    "drupal/ludwig": "^2.0",
+    "drupal/block_class": "^2.0",
+    "drupal/mailchimp": "^2.2",
+    "drupal/dropdown_language": "^4.0",
+    "drupal/backup_migrate": "^5.0",
+    "drupal/facets": "^3.0@beta",
+    "drupal/config_update": "^2.0@alpha",
+    "drupal/views_infinite_scroll": "^2.0",
+    "drupal/webform": "^6.2",
+    "drupal/token": "^1.13",
+    "drupal/imce": "^3.0",
+    "drupal/ctools": "^4.0",
+    "drupal/features": "^3.14"
   },
   "require-dev": {
     "drupal/core-dev": "~10",
